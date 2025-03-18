@@ -58,7 +58,6 @@ varcache
 *.bts
 Real_tmp.txt
 
-*
 
 !*.cpp
 !*.h
