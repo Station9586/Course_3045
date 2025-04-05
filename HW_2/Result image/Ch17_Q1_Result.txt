@@ -1,0 +1,4 @@
+最左點 (Leftmost):   (59, 115)
+最右點 (Rightmost):  (402, 163)
+最上點 (Topmost):    (207, 20)
+最下點 (Bottommost): (181, 372)

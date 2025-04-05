@@ -1,0 +1,3 @@
+邊界矩形 (Bounding Box): x=65, y=55, width=329, height=185
+寬高比 (Aspect Ratio): 1.7784
+Solidity: 0.9215
