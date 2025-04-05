@@ -516,3 +516,7 @@ while True:
 
 cv2.destroyAllWindows()
 ```
+
+**Ch17_22**
+
+設計輪廓為圓形的縮放動畫。
