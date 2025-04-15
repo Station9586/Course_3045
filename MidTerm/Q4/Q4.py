@@ -5,7 +5,6 @@ import os
 from keras.api import preprocessing
 from keras.api import applications
 from keras.api.models import load_model
-# 新增導入 Matplotlib
 import matplotlib.pyplot as plt
 
 def detect_face_mask(image_path,
