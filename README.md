@@ -520,3 +520,18 @@ cv2.destroyAllWindows()
 **Ch17_22**
 
 設計輪廓為圓形的縮放動畫。
+
+---
+
+### MidTerm
+1. 請寫程式比較邊緣偵測的方法?( 1. Sobel edge detector  2.Prewitt edge detector 3.Laplacian edge detector 4.Canny edge detector )
+
+2. 請寫程式將影像卡通化
+   
+3. 請寫程式將影像相似影像偵測器
+
+4. 請寫程式將影像人臉口罩偵測
+
+5. 請寫程式將影像添加可視化浮水印
+
+6. 請自行開發一個影像專題
